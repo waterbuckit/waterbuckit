@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🦆
 
 - 🔭 I’m currently working on Formine.JS, a Preact-based, JSON-schema'd form renderer.
 - 🌱 I’m currently learning Svelte!
