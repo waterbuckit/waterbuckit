@@ -1,6 +1,6 @@
 ### Hi there 👋🦆
 
-- 🔭 I’m currently working on formine.js, a Preact-based, JSON-schema'd form renderer.
+- 🔭 I’m currently working on formine.js, a Preact-based, JSON-schema'd form renderer, feel free to check out the development branch at https://github.com/waterbuckit/formine.js/tree/develop and have a play, hoping to eventually extend into a SaaS platform.
 - 🌱 I’m currently learning Svelte!
 - 💬 Ask me about PHP, Laravel, AlpineJS and Livewire, I spend my life working with them at my day job.
 - ⚡ Fun fact: I love ducks.
